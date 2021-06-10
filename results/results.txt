@@ -1,0 +1,2 @@
+This is the results folder.
+All experiment results will be saved here.

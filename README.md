@@ -1,10 +1,10 @@
-### Nested Trees
+## Nested Trees
 
-This is a repository containing the source code and dataset access information for the paper "Nested Trees for Longitudinal Classification".
+This is a repository containing the source code and dataset access information for the paper "Nested Trees for Longitudinal Classification" (under review for a conference, as anonymous submission).
 
 ### Codebase
 
-The codebase is presented as an Eclipse project written entirely in Java.
+The codebase is presented as an Eclipse project written entirely in Java. 
 
 ### Running experiments
 
